@@ -7,7 +7,7 @@
 <h1 align="center">Desenvolvedor em formação</h1>
 
 <p align="center">
-💻 Focado em desenvolvimento web • 🚀 Em busca de oportunidades • 🇧🇷 Brasil
+💻 Focado na progamação• 🚀 Em busca de evoluir • 🇧🇷 Brasil
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 
 ### 🧠 Sobre mim
 
-* 📚 Estudando desenvolvimento web com foco em projetos práticos
-* 🎯 Buscando primeira oportunidade como desenvolvedor
+* 📚 Estudando progamaçao full stack 
+* 🎯 Buscando crescer a cada dia 
 * ⚡ Evolução contínua com disciplina e consistência
 
 ---
@@ -39,14 +39,8 @@
 
 ### 🚀 Projetos
 
-<p align="center">
-
-  <!-- SEU PROJETO -->
-
-  <a href="https://projeto-carrinho-de-pipoca-2026.vercel.app" target="_blank">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kauan1376974&repo=COLOQUE-AQUI-O-NOME-DO-REPOSITORIO&theme=tokyonight&hide_border=true"/>
-  </a>
-
+<p align="left">
+🔗 https://projeto-carrinho-de-pipoca-2026.vercel.app
 </p>
 
 ---
@@ -63,7 +57,7 @@
 ### 📫 Contato
 
 <p align="center">
-  <a href="https://wa.me/5511997016167" target="_blank">
+  <a<a href="https://wa.me/5511997016167?text=ola%20tudo%20bem%20,%20como%20posso%20te%20ajudar%20%3F">
     <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
@@ -73,6 +67,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 </p>
+
+
+
 
 
 
