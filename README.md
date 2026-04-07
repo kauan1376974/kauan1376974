@@ -40,13 +40,13 @@
 ### 🚀 Projetos
 
 <p align="center">
-  <!-- Substitua pelos seus projetos -->
-  <a href="https://github.com/kauan1376974/NOME-DO-PROJETO">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO&theme=tokyonight&hide_border=true"/>
+
+  <!-- SEU PROJETO -->
+
+  <a href="https://projeto-carrinho-de-pipoca-2026.vercel.app" target="_blank">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kauan1376974&repo=COLOQUE-AQUI-O-NOME-DO-REPOSITORIO&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/SEU-USUARIO/NOME-DO-PROJETO2">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO2&theme=tokyonight&hide_border=true"/>
-  </a>
+
 </p>
 
 ---
